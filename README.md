@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nik!    <br/>Junior Business Analyst
+<h1>Hi, I'm Nik!    <br/>Business Analyst Intern
   
 <h2>👨‍💻 Business Analytics Project:</h2>
 
