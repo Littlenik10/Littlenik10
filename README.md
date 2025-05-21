@@ -2,7 +2,10 @@
   
 <h2>👨‍💻 Business Analytics Project:</h2>
 
-
+<b>Excel Projects</b>
+  - [Beverage Analysis](https://github.com/Littlenik10/Beverage-Analysis)   
+    Analyzed beverage sales to identify best-selling drinks and monthly trends.
+    
 <b>Power BI Projects</b>
   - [Superstore Giant Sales Analysis](https://github.com/Littlenik10/Superstore-Giant-Sales-Analysis)  
     Analyzed sales trends, product performance, and customer loyalty to drive strategic decisions.
@@ -15,6 +18,8 @@
   - [Academic Research Paper](https://github.com/Littlenik10/Supervised-Machine-Learning-Techniques)    
     Comparison of Supervised Machine Learning Techniques.
     
+
+  
 
 
 
