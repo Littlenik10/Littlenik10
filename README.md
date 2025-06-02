@@ -9,6 +9,10 @@
 <b>Power BI Projects</b>
   - [Superstore Giant Sales Analysis](https://github.com/Littlenik10/Superstore-Giant-Sales-Analysis)  
     Analyzed sales trends, product performance, and customer loyalty to drive strategic decisions.
+
+<b>Tableau Projects</b>
+  - [Loan Performance](https://github.com/Littlenik10/loan-stats)      
+    Analyze loan performance data and uncover key insights into loan distribution, customer demographics, and financial behavior.
     
 <b>Python Projects</b>
   - [Password Validation Coding](https://github.com/Littlenik10/Password-Validation)    
