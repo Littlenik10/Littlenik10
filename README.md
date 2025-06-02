@@ -12,7 +12,7 @@
 
 <b>Tableau Projects</b>
   - [Loan Performance](https://github.com/Littlenik10/loan-stats)      
-    Analyze loan performance data and uncover key insights into loan distribution, customer demographics, and financial behavior.
+    Analyze loan amount trends across different variables such as loan term, home ownership, month of issuance, and debt-to-income (DTI) ratio.
     
 <b>Python Projects</b>
   - [Password Validation Coding](https://github.com/Littlenik10/Password-Validation)    
